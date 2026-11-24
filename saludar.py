@@ -2,7 +2,7 @@ import random
 
 
 def saludo1():
-    return "Hello"
+    return "Hola"
 
 
 def saludo2():
